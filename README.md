@@ -31,28 +31,30 @@ Fortunately, in Windows 10, you can securely protect your private documents or f
 
 6. Put the code that is in the repository.
    
-8. Find where it says "Your-Password-Here" in the document.
+7. Find where it says "Your-Password-Here" in the document.
 
 ![D3S6TJhEEAibXyLdd4QHei-970-80](https://github.com/max-code971/Folder_Locker/assets/97020506/e447af38-b739-415f-ab79-81abfa1c1fa2)
 
 8. Replace "Your-Password-Here" with the password you want to lock the folder with.
    
-10. Save the file
+9. Save the file (.bat)
 
-11. Double-click FolderLocker.
+10. Double-click FolderLocker.
+
 
 ![jkVivsxRvAveAofCQoQisV-970-80](https://github.com/max-code971/Folder_Locker/assets/97020506/7ac0c92d-ecc5-4ccc-bde9-59d0d9a68231)
 
 The Locker folder has been generated!
-12. Fill the Locker folder with the items you want to protect.
 
-13. Open the FolderLocker file, because it's time to lock that folder up!
+11. Fill the Locker folder with the items you want to protect.
+
+12. Open the FolderLocker file, because it's time to lock that folder up!
     
-14. Type "Y" into the screen.
+13. Type "Y" into the screen.
 
 ![5vAneUZhS3ufUFBDSGR2QC-970-80](https://github.com/max-code971/Folder_Locker/assets/97020506/3597082c-82ec-4625-956d-b16a7af6604c)
 
-15.  Click Enter, and the Folder Locker window will disappear, along with the Locker folder itself.
+14.  Click Enter, and the Folder Locker window will disappear, along with the Locker folder itself.
 Your secrets are now safe.
 To unlock the folder, double-click "FolderLocker" to open it.
 Enter the password, and click Enter.
